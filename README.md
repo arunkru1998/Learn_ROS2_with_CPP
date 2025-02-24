@@ -2,7 +2,10 @@
 This Repository consists of code which can be used to learn ROS2 with C++
 
 ### What you will get to do
-![Copy of Copy of How to create a action client node in ROS2 Humble using C++](https://github.com/user-attachments/assets/1c4dcbad-8266-4e2a-b55b-27931ad2cd94)
+![Copy of Copy of How to create a action client node in ROS2 Humble using C++ (1)](https://github.com/user-attachments/assets/575910ce-bdf5-4e1e-a09f-a6a462c40276)
+
+You will use turtlesim to play move in different shapes, with different color footstep all using the basic ROS2 concepts which are Publisher-Subscriber, Server-Client, Action Server-Client.
+For each of the topic there is a video with explanation to go over the code, the youtube playlist link: https://www.youtube.com/playlist?list=PLNzivn4FRNgVIKinnhD3z0bXM5scUlczH
 
 For running each sample code:
 - `ROS2 Humble`
